@@ -1,0 +1,65 @@
+* {
+    background-color: black;
+}
+
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+[href] {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+.video {
+    padding-top: 1cm;
+    margin-left: 50vw;
+    transform: translate(-50%);
+}
+
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+.camp {
+    display: block;
+    margin-top: 1cm;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+.phone {
+    display: block;
+    margin-top: 1cm;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8%;
+}
+
+footer {
+    padding-top: 50px;
+    margin-left: auto;
+    margin-right: 30px;
+    text-align: right;
+    color: gray;
+    margin-bottom: 50px;
+}
